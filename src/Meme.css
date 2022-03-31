@@ -1,0 +1,15 @@
+.Meme {
+    width: 400px;
+    border: white solid 1px;
+    padding: 5px;
+    margin: 10px auto;
+}
+
+.Meme img {
+    width: 400px;
+}
+
+.Meme button {
+    display: block;
+    margin: 5px auto;
+}
